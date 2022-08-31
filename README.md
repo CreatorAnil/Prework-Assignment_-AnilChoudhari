@@ -1,4 +1,4 @@
-# Prework-Assignment_-AnilChoudhari
+# Prework-Assignment_AnilChoudhari
 
 Question 1 : First Letter Printer
 You are provided with a string.
